@@ -19,7 +19,7 @@ Gungnir is designed to be a lightweight and efficient tool, making it suitable f
 ## Installation
 
 ```sh
-go install github.com/g0ldencybersec/gungnir/gungnir@latest
+go install github.com/motoko-ayanami/gungnir/gungnir@latest
 ```
 
 ## Usage
