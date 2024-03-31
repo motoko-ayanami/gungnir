@@ -1,4 +1,4 @@
-module github.com/g0ldencybersec/gungnir
+module github.com/motoko-ayanami/gungnir
 
 go 1.21
 
