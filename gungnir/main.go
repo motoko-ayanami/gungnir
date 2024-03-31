@@ -234,7 +234,7 @@ func scanLog(ctx context.Context, ctl ctLog, wg *sync.WaitGroup) {
 	var start int64
 	var end int64
 
-	ticker := time.NewTicker(time.Second * 15)
+	ticker := time.NewTicker(time.Minute * 15)
 	errTicker := time.NewTicker(time.Second * 60)
 
 	for {
